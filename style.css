@@ -68,6 +68,7 @@ div legend {
 .inner-input input {
 	height: 20px;
 	width: 300px;
+	border-color: #e5e7eb;
 }
 button {
 	background-color: #596d48;
